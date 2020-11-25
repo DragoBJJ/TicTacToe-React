@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TicTacToe-React/static/css/main.1cd83556.chunk.css",
+    "main.js": "/TicTacToe-React/static/js/main.4a495cc3.chunk.js",
+    "main.js.map": "/TicTacToe-React/static/js/main.4a495cc3.chunk.js.map",
+    "runtime-main.js": "/TicTacToe-React/static/js/runtime-main.cf702227.js",
+    "runtime-main.js.map": "/TicTacToe-React/static/js/runtime-main.cf702227.js.map",
+    "static/js/2.6a055d54.chunk.js": "/TicTacToe-React/static/js/2.6a055d54.chunk.js",
+    "static/js/2.6a055d54.chunk.js.map": "/TicTacToe-React/static/js/2.6a055d54.chunk.js.map",
+    "index.html": "/TicTacToe-React/index.html",
+    "static/css/main.1cd83556.chunk.css.map": "/TicTacToe-React/static/css/main.1cd83556.chunk.css.map",
+    "static/js/2.6a055d54.chunk.js.LICENSE.txt": "/TicTacToe-React/static/js/2.6a055d54.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TicTacToe-React/static/media/Vinci.bc7f3027.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf702227.js",
+    "static/js/2.6a055d54.chunk.js",
+    "static/css/main.1cd83556.chunk.css",
+    "static/js/main.4a495cc3.chunk.js"
+  ]
+}
