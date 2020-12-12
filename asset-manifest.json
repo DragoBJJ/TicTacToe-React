@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TicTacToe-React/static/css/main.187e7a77.chunk.css",
+    "main.css": "/TicTacToe-React/static/css/main.d6a17c3a.chunk.css",
     "main.js": "/TicTacToe-React/static/js/main.dfb31144.chunk.js",
     "main.js.map": "/TicTacToe-React/static/js/main.dfb31144.chunk.js.map",
     "runtime-main.js": "/TicTacToe-React/static/js/runtime-main.cf702227.js",
@@ -8,14 +8,14 @@
     "static/js/2.6a055d54.chunk.js": "/TicTacToe-React/static/js/2.6a055d54.chunk.js",
     "static/js/2.6a055d54.chunk.js.map": "/TicTacToe-React/static/js/2.6a055d54.chunk.js.map",
     "index.html": "/TicTacToe-React/index.html",
-    "static/css/main.187e7a77.chunk.css.map": "/TicTacToe-React/static/css/main.187e7a77.chunk.css.map",
+    "static/css/main.d6a17c3a.chunk.css.map": "/TicTacToe-React/static/css/main.d6a17c3a.chunk.css.map",
     "static/js/2.6a055d54.chunk.js.LICENSE.txt": "/TicTacToe-React/static/js/2.6a055d54.chunk.js.LICENSE.txt",
     "static/media/App.css": "/TicTacToe-React/static/media/Vinci.bc7f3027.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf702227.js",
     "static/js/2.6a055d54.chunk.js",
-    "static/css/main.187e7a77.chunk.css",
+    "static/css/main.d6a17c3a.chunk.css",
     "static/js/main.dfb31144.chunk.js"
   ]
 }
