@@ -4,7 +4,6 @@
   box-sizing: border-box;
   font: 14px "Century Gothic", Futura, sans-serif;
 }
-
 body {
   height: 100vh;
   background-image: url(../img/Vinci.jpg);
@@ -16,14 +15,17 @@ body {
 .game {
   display: flex;
   flex-direction: column;
+  height: 100vh;
   align-items: center;
 }
 
 .game-info {
-  display: grid;
+  display: inline-flex;
   width: 400px;
-  grid-gap: 20px;
-  grid-template-columns: repeat(2, 1fr);
+}
+.game-info__li {
+  display: inline-flex;
+  margin-right: 5px;
 }
 
 .game-board {
@@ -51,6 +53,7 @@ body {
 
 .status {
   margin-top: 20px;
+  margin-right: 5vw;
   font-size: 1.5rem;
 }
 

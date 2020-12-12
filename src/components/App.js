@@ -75,7 +75,7 @@ class App extends react.Component {
       const activeClass = index === this.state.nextStep ? "active" : "";
       const move = index ? `step #${index}` : "start game";
       return (
-        <li key={index}>
+        <li className="game-info__li" key={index}>
           <button
             className={activeClass}
             onClick={() => this.changeStep(index)}
